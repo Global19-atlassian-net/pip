@@ -5,13 +5,13 @@ Quickstart
 pip is a command line tool for installing Python packages.
 
 For a full tutorial on installing packages with pip, see the
-`Python Packaging User Guide`_
+`Python Packaging User Guide`_.
 
-For a more detailed exploration of pip's functionality see the pip
+For a more detailed exploration of pip's functionality, see the pip
 :doc:`user guide <user_guide>`.
 
-Quick setup
-===========
+Setup
+=====
 
 1. Check pip installation
 -------------------------
